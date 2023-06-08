@@ -1,0 +1,74 @@
+[
+    {
+        "_personal__cuil": "111111111",
+        "_personal__ape": "Mart\u00c3\u00adnez",
+        "_personal__nom": "Luis",
+        "_personal__sueldobasico": 70000,
+        "_personal__anti": 7,
+        "_docente__carre": "Licenciatura en Educaci\u00c3\u00b3n",
+        "_docente__cargo": "exclusivo",
+        "_docente__catedra": "Matem\u00c3\u00a1ticas"
+    },
+    {
+        "_personal__cuil": "222222222",
+        "_personal__ape": "L\u00c3\u00b3pez",
+        "_personal__nom": "Ana",
+        "_personal__sueldobasico": 55000,
+        "_personal__anti": 4,
+        "_docente__carre": "Licenciatura en Historia",
+        "_docente__cargo": "semiexclusivo",
+        "_docente__catedra": "Historia del Arte"
+    },
+    {
+        "_personal__cuil": "333333333",
+        "_personal__ape": "Gonz\u00c3\u00a1lez",
+        "_personal__nom": "Pedro",
+        "_personal__sueldobasico": 45000,
+        "_personal__anti": 2,
+        "_apoyo__categoria": 15
+    },
+    {
+        "_personal__cuil": "444444444",
+        "_personal__ape": "Rodr\u00c3\u00adguez",
+        "_personal__nom": "Laura",
+        "_personal__sueldobasico": 40000,
+        "_personal__anti": 1,
+        "_apoyo__categoria": 6
+    },
+    {
+        "_personal__cuil": "555555555",
+        "_personal__ape": "Fern\u00c3\u00a1ndez",
+        "_personal__nom": "Diego",
+        "_personal__sueldobasico": 80000,
+        "_personal__anti": 6,
+        "_investigador__areainv": "Ciencias Biol\u00c3\u00b3gicas",
+        "_investigador__tipoinv": "Investigaci\u00c3\u00b3n cient\u00c3\u00adfica"
+    },
+    {
+        "_personal__cuil": "666666666",
+        "_personal__ape": "Silva",
+        "_personal__nom": "Carolina",
+        "_personal__sueldobasico": 75000,
+        "_personal__anti": 4,
+        "_investigador__areainv": "Ciencias Sociales",
+        "_investigador__tipoinv": "Investigaci\u00c3\u00b3n de campo"
+    },
+    {
+        "_personal__cuil": "666666666",
+        "_personal__ape": "Silva",
+        "_personal__nom": "Carolina",
+        "_personal__sueldobasico": 75000,
+        "_personal__anti": 4,
+        "_investigador__areainv": "Ciencias Sociales",
+        "_investigador__tipoinv": "Investigaci\u00c3\u00b3n de campo"
+    },
+    {
+        "_personal__cuil": "666666666",
+        "_personal__ape": "Silva",
+        "_personal__nom": "Carolina",
+        "_personal__sueldobasico": 75000,
+        "_personal__anti": 4,
+        "_investigador__areainv": "Ciencias Sociales",
+        "_investigador__tipoinv": "Investigaci\u00c3\u00b3n de campo"
+    }
+]
