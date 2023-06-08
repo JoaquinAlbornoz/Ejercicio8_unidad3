@@ -32,7 +32,7 @@ class lista():
             self.__actual=self.__actual.getSiguiente()
             return dato
     def instanciar(self):
-        with open('C:/Users/Usuario/PycharmProjects/pythonProject1/poo/unidad3/7/personal.json', 'r') as f:
+        with open('C:\\Users\\users\\Documents\\Cristiannika\\SEGUNDO AÑO DE FACULTAD\\Programacion orientada a objetos\\UNIDAD 3\\ejercicio8\\personal.json', 'r') as f:
             datos = json.load(f)
             for variable in datos:
                 if variable['tipo'] == 'docente':
@@ -143,7 +143,7 @@ class lista():
         print(coste)
 
     def guarda(self):
-        with open('C:/Users/Usuario/PycharmProjects/pythonProject1/poo/unidad3/7/personal.json', 'w') as f:
+        with open('C:\\Users\\users\\Documents\\Cristiannika\\SEGUNDO AÑO DE FACULTAD\\Programacion orientada a objetos\\UNIDAD 3\\ejercicio8\\personal.json', 'w') as f:
                     datos = []
                     for elemento in self:
                         datos.append(elemento.__dict__)
